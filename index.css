@@ -18,6 +18,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Signika Negative', sans-serif;
+    background: #202020ab;
 }
 
 .card {
